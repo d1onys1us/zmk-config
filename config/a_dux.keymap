@@ -15,6 +15,7 @@
 #define SYM_L 4
 #define FUN_L 5
 #define GME_L 6
+#define NMR_L 7
 
 // Using layer taps on thumbs, having quick tap as well helps w/ repeating space/backspace
 &lt { quick_tap_ms = <200>; };
@@ -110,7 +111,7 @@
                 &kp F10     &kp F1     &kp F2      &kp F3     &kp PAUSE_BREAK   &trans          &trans         &trans      &trans     &trans
                                                    &none      &none             &trans          &trans
             >;
-        };S
+        };
         
         gaming_layer {
             label = "Gaming";
@@ -118,7 +119,7 @@
                 &trans     &trans     &trans      &trans          &trans       &trans           &trans         &trans       &trans       &trans
                 &kp A      &kp S      &kp D       &kp F           &kp G        &trans           &trans         &trans       &trans       &trans
                 &trans     &trans     &trans      &trans          &trans       &kp N            &kp M          &kp COMMA    &kp DOT      &kp FSLH
-                                                  &mo NUMR_L      &kp SPACE    &tog GME_L       &trans         &trans
+                                                  &mo NMR_L       &kp SPACE    &tog GME_L       &trans         &trans
             >;
         };
 
