@@ -118,7 +118,7 @@
                 &trans     &trans     &trans      &trans          &trans       &trans           &trans         &trans       &trans       &trans
                 &kp A      &kp S      &kp D       &kp F           &kp G        &trans           &trans         &trans       &trans       &trans
                 &trans     &trans     &trans      &trans          &trans       &kp N            &kp M          &kp COMMA    &kp DOT      &kp FSLH
-                                                  &mo NUM_L       &kpSPACE     &trans           &trans         &trans
+                                                  &mo NUM_L       &kp SPACE    &trans           &trans         &trans
             >;
         };
     };
