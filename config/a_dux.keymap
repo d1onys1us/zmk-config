@@ -111,12 +111,12 @@
                                                    &none      &none             &trans          &trans
             >;
         };
-	
-	gaming_layer {
+        
+        gaming_layer {
             label = "Gaming";
             bindings = <
-                &trans	   &trans     &trans      &trans          &trans       &trans	        &trans         &trans       &trans       &trans
-                &kp A      &kp S      &kp D       &kp F           &kp G        &trans	        &trans         &trans       &trans       &trans
+                &trans     &trans     &trans      &trans          &trans       &trans           &trans         &trans       &trans       &trans
+                &kp A      &kp S      &kp D       &kp F           &kp G        &trans           &trans         &trans       &trans       &trans
                 &trans     &trans     &trans      &trans          &trans       &kp N            &kp M          &kp COMMA    &kp DOT      &kp FSLH
                                                   &mo NUM_L       &kpSPACE     &trans           &trans         &trans
             >;
