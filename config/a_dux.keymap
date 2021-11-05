@@ -116,8 +116,8 @@
             label = "Gaming";
             bindings = <
                 &trans	   &trans     &trans      &trans          &trans       &trans	        &trans         &trans       &trans       &trans
-                &kp A      &kp S      &kp D       &kp F           &kp G        &kp H            &kp J          &kp K        &kp L        &kp QUOT
-                &trans     &trans     &trans      &trans          &trans       &trans           &trans         &trans       &trans       &trans
+                &kp A      &kp S      &kp D       &kp F           &kp G        &trans	        &trans         &trans       &trans       &trans
+                &trans     &trans     &trans      &trans          &trans       &kp N            &kp M          &kp COMMA    &kp DOT      &kp FSLH
                                                   &mo NUM_L       &kpSPACE     &trans           &trans         &trans
             >;
         };
