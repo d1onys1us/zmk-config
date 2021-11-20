@@ -119,7 +119,7 @@
                 &trans     &trans     &trans      &trans          &trans       &trans           &trans         &trans       &trans       &trans
                 &kp A      &kp S      &kp D       &kp F           &kp G        &trans           &trans         &trans       &trans       &trans
                 &trans     &trans     &trans      &trans          &trans       &kp N            &kp M          &kp COMMA    &kp DOT      &kp FSLH
-                                                  &kp SPACE       &mo NMR_L    &mo OTH_L        &trans         &trans
+                                                  &kp SPACE       &mo NMR_L    &lt OTH_L RET    &lt SYM_L BKSP
             >;
         };
 
